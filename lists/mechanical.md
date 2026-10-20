@@ -1,25 +1,25 @@
-# 58 mechanical engineering roles
+# 56 mechanical engineering roles
 
-**58 roles at 43 companies.** Checked 15 Oct 2026. Mechanical engineers, mechanical design and product design engineers.
+**56 roles at 43 companies.** Checked 20 Oct 2026. Mechanical engineers, mechanical design and product design engineers.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Baker Hughes** | [Engineer 1, Mechanical, Product Design and Engineering](https://trylitos.com/job/7d3eb24e-6d62-4e35-82d1-04a02c636071?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | US-TX-HOUSTON - 6760 Concord Park |  | Oct 19 |  |
+| **Secretariat** | [Associate, Engineering Sciences - Mechanical](https://trylitos.com/job/c8e1f7fa-af5b-42c3-98fe-7f11b7d55091?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Chicago, Illinois, United States |  | Oct 16 |  |
+| **Northrop Grumman** | [2027 Associate Mechanical Engineer/Mechanical Engineer - Dulles VA](https://trylitos.com/job/a35bee91-a2cd-45ac-b743-6dacb5f90b1b?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Virginia-Dulles |  | Oct 16 |  |
+| **Northrop Grumman** | [2027 Associate Mechanical Engineer / Mechanical Engineer](https://trylitos.com/job/aa816175-2e46-41d7-a731-34ebc855109b?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Oklahoma-Oklahoma City |  | Oct 15 |  |
+| **citjpl** | [Optomechanical Engineer I](https://trylitos.com/job/3b90b6a5-9d7b-4dff-9946-eec7421a71fb?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | JPL Campus |  | Oct 13 |  |
 | **Vanderlande** | [Mechanical Project Engineer I](https://trylitos.com/job/f3ecca61-9cd6-4391-9b27-e49f7440b308?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Marietta (Atlanta); Marietta, GA USA |  | Oct 14 |  |
 | **Northrop Grumman** | [2027 Associate H/W Mechanical Engineer - Annapolis MD](https://trylitos.com/job/a679df9d-06bd-4734-b150-3c60b91ba211?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Maryland-Annapolis |  | Oct 14 |  |
 | **Sierra Space** | [Mechanical Engineer I (Mechanisms)](https://trylitos.com/job/a8951bfe-75a8-429b-b1e7-dc2317e043a1?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Durham, NC |  | Oct 11 |  |
 | **Sierra Space** | [Mechanical Engineer I (Environmental/Propulsion)](https://trylitos.com/job/b1dc5e25-b0b8-4d36-8a5a-044d38542c25?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Madison, WI; Middleton, WI |  | Oct 9 |  |
 | **Sierra Space** | [Mechanical Engineer I (Thermal Design)](https://trylitos.com/job/2b381977-a6a0-4ff4-a259-eb1e27d44475?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Centennial, CO; Louisville, CO |  | Oct 9 |  |
-| **Northrop Grumman** | [2027 Associate Mechanical Engineer/Mechanical Engineer - Ocean Springs MS](https://trylitos.com/job/ed6f5f94-e3d5-472b-b710-504db3a3efd5?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Mississippi-Ocean Springs |  | Oct 8 |  |
-| **Northrop Grumman** | [2027 Associate Mechanical Engineer/Mechanical Engineer - Annapolis MD](https://trylitos.com/job/1966d23d-c4fd-49af-a8bc-2e30be40cfe0?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Maryland-Annapolis |  | Oct 8 |  |
 | **Boeing** | [Associate Mechanical Systems Design & Analysis Engineer](https://trylitos.com/job/4ee74a3b-2a8e-4d51-a1e8-7af7ae65aef0?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | USA - Saint Charles, MO |  | Oct 7 |  |
 | **Sierra Space** | [Mechanical Engineer I (Solar Arrays)](https://trylitos.com/job/3c1b1dd7-c77e-407b-88a1-fe20bce49114?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Broomfield, CO |  | Oct 7 |  |
 | **F5** | [Mechanical Engineer I](https://trylitos.com/job/ec973376-a041-4e93-a222-d8de27d02e1e?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | San Jose |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Northrop Grumman** | [Associate Mechanical Engineer/Mechanical Engineer](https://trylitos.com/job/106ef719-d732-419d-b8b4-012d1f1c37e9?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Arizona-Gilbert |  | Oct 7 |  |
-| **Northrop Grumman** | [2026 Associate Thermal Mechanical Engineer  - Dulles](https://trylitos.com/job/ede41168-82ed-4299-b8d4-a15043e49996?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | United States-Virginia-Dulles |  | Oct 7 |  |
 | **KION Group** | [Mechanical Engineer (New Graduate/Early Career)](https://trylitos.com/job/67ed2d9a-8cc3-4001-9a19-1faf4e54620d?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Grand Rapids, MI, United States; Wauwatosa, W |  | Oct 6 |  |
-| **Leidos** | [Junior Mechanical Engineer, Marine Small Craft](https://trylitos.com/job/77c7146f-d78e-444b-9f31-0b86f05b1f1b?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Chesapeake, VA |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **HNTB** | [Engineer I - Mechanical](https://trylitos.com/job/b5a2d0c5-5520-420e-9216-a036a7d857d1?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Oakland, CA; San Jose, CA; San Francisco, CA |  | Oct 5 |  |
 | **Sierra Nevada Corporation** | [Mechanical Engineer I](https://trylitos.com/job/f35ddb64-8286-4e91-a8cf-767699be1522?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Lone Tree, CO |  | Oct 2 |  |
 | **CACI International Inc** | [Junior Mechanical Engineer](https://trylitos.com/job/71431d77-f9f0-4bce-ac88-d5adadfc4668?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Crane, IN, US |  | Oct 1 |  |
@@ -27,7 +27,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Danaher** | [Associate Custom Product Design Engineer](https://trylitos.com/job/e82fc3fa-430f-4fda-b244-974de591831a?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Duncan, South Carolina, United States |  | Sep 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **AAON / BASX** | [Testing Mechanical Engineer I](https://trylitos.com/job/5afe57a4-b0d0-43f2-82f0-526c00eace95?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Tulsa, OK |  | Sep 23 |  |
 | **Life Fitness** | [Mechanical Engineer I (Product Development Engineering)](https://trylitos.com/job/fca44c69-1569-4c27-acad-b5b438e4148e?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Ramsey, MN |  | Sep 22 |  |
-| **Hewlett Packard Enterprise** | [Mechanical Hardware Engineer I Graduate](https://trylitos.com/job/ac3ebbce-1159-4219-bb4b-aac1be767ff7?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Sunnyvale, California, United States of Ameri |  | Sep 21 |  |
 | **AeroVironment** | [Mechanical Engineer I](https://trylitos.com/job/a561c9d1-a4a9-415e-a2f4-b5952f946e30?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Moorpark, CA |  | Sep 21 |  |
 | **Viavi Solutions** | [Early Careers R&D Rotational Program (Mechanical Engineer)](https://trylitos.com/job/974224d6-2d8a-486a-b85e-073c82c34a80?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Indianapolis, IN USA |  | Sep 14 |  |
 | **AutoStore** | [Entry Level- Mechanical Engineer](https://trylitos.com/job/8c5ec095-039b-4e42-b803-d5bed177ceed?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Atlanta, GA, USA |  | Sep 13 |  |
@@ -45,7 +44,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Astranis** | [Mechanical Associate Engineer (Spring 2027)](https://trylitos.com/job/891542dc-199c-49ba-b962-39082154569b?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | San Francisco |  | Oct 7 |  |
 | **Astranis** | [Mechanical Associate Engineer (Winter 2027)](https://trylitos.com/job/5b5b3171-7ee9-44ff-8fb2-9d75b5cc1ce4?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | San Francisco |  | Oct 7 |  |
 | **BRPH** | [Junior Mechanical Engineer](https://trylitos.com/job/f585004d-dc1b-496c-9591-419eddfe4765?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Orlando, Florida, United States |  | Oct 6 |  |
-| **Greenpoint Technologies** | [Associate Mechanical Systems Engineer](https://trylitos.com/job/26603104-7359-4d42-937d-5522cebaa5ef?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Bothell, Washington, United States; Denton, T |  | Sep 30 |  |
 | **SpaceX** | [New Graduate Engineer, Mechanical Design (Starshield)](https://trylitos.com/job/e7903818-c565-43c2-a118-ee722a080b54?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Hawthorne, CA |  | Sep 29 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **SpaceX** | [New Graduate Engineer, Mechanical](https://trylitos.com/job/8071f5c5-f021-4859-aa8f-2215274459a8?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | McGregor, TX |  | Sep 29 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **SpaceX** | [New Graduate Engineer, Mechanical (Cape Canaveral)](https://trylitos.com/job/5dacd3cf-fd48-4476-8dd7-f36df4602394?utm_source=github&utm_campaign=mech-mfg-grad-mechanical) | Cape Canaveral, FL |  | Sep 29 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |

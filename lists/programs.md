@@ -1,11 +1,21 @@
-# 12 engineering development and rotational programs roles
+# 22 engineering development and rotational programs roles
 
-**12 roles at 4 companies.** Checked 15 Oct 2026. Engineering development, leadership and rotational programs for new grads.
+**22 roles at 12 companies.** Checked 20 Oct 2026. Engineering development, leadership and rotational programs for new grads.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Marmon Holdings** | [Operations Leadership Development Program - Class of 2027](https://trylitos.com/job/2fbdc8f8-91d0-46a0-9f46-ea3972bc03a3?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Seymour, CT; East Granby, CT |  | Oct 15 |  |
+| **Marmon Holdings** | [Operations Leadership Development Program - Class of 2027](https://trylitos.com/job/36f62db8-4868-4841-976a-73d9ab8efea8?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Hartselle, AL; Birmingham, AL |  | Oct 15 |  |
+| **Clark Construction** | [MBA Summer Associate (Leadership Development Program)](https://trylitos.com/job/63aa1521-65a7-4af8-bc1c-47dfd81a866b?utm_source=github&utm_campaign=mech-mfg-grad-programs) | McLean, VA |  | Oct 15 |  |
+| **Boeing** | [Associate Level Engineers - Satellite/Space Systems Rotational Program](https://trylitos.com/job/6e98206a-bb59-4b49-93dc-b80dd1bb4129?utm_source=github&utm_campaign=mech-mfg-grad-programs) | USA - El Segundo, CA; USA - Seal Beach, CA |  | Oct 15 |  |
+| **Boeing** | [Entry Level Engineers - Satellite/Space Systems Rotational Program](https://trylitos.com/job/93b51e0e-05ae-4833-a410-ef4c752104f4?utm_source=github&utm_campaign=mech-mfg-grad-programs) | USA - El Segundo, CA; USA - Seal Beach, CA; U |  | Oct 15 |  |
+| **GE Vernova** | [GE Vernova GSI Edison Engineering Development Program - EEDP](https://trylitos.com/job/b6c445d0-5556-41b2-9e21-bffdbdffe5f5?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Niskayuna |  | Oct 15 |  |
+| **Curtiss-Wright** | [Commercial Rotational Program - Valves](https://trylitos.com/job/63fc5fa4-3f2b-48cd-87fd-b2e922f52aa5?utm_source=github&utm_campaign=mech-mfg-grad-programs) | US-OH-Brecksville (Farris) |  | Oct 14 |  |
+| **RTX** | [Leadership Development Programs - Operations, Experienced Track (Starts June 2027)](https://trylitos.com/job/46dc86a9-8d6e-4b68-8516-d2874fa2691c?utm_source=github&utm_campaign=mech-mfg-grad-programs) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSS |  | Oct 13 |  |
+| **Regal Rexnord** | [Enterprise Leadership Development Program](https://trylitos.com/job/7a6cabdf-933c-4d1c-ae29-ea3f032dae77?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Milwaukee, Wisconsin, United States; Rosemont |  | Oct 13 |  |
+| **Light & Wonder** | [Leadership Development Program (LDP)](https://trylitos.com/job/7b1aaf14-9bb8-4f0e-86ca-585ad066e3f7?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Las Vegas, NV |  | Oct 13 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Carolina](https://trylitos.com/job/74ef7f57-f3d4-440c-a4a9-f2c9b0aa37c3?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Carolina - Carolina, SC |  | Sep 30 |  |
 | **Vermeer** | [Engineer I - Manufacturing (2027 Engineering Development Program)](https://trylitos.com/job/937f7d26-5e25-4779-ad72-4ebe0f22a866?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Pella, Iowa, USA - Plant 3 Production Offices |  | Sep 15 |  |
 | **Viavi Solutions** | [Early Careers R&D Rotational Program (Mechanical Engineer)](https://trylitos.com/job/974224d6-2d8a-486a-b85e-073c82c34a80?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Indianapolis, IN USA |  | Sep 14 |  |
