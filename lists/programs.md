@@ -1,11 +1,12 @@
-# 10 engineering development and rotational programs roles
+# 11 engineering development and rotational programs roles
 
-**10 roles at 4 companies.** Checked 26 Oct 2026. Engineering development, leadership and rotational programs for new grads.
+**11 roles at 5 companies.** Checked 2 Nov 2026. Engineering development, leadership and rotational programs for new grads.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Sanofi** | [2027 Vaccines Manufacturing and Supply Rotational Development Program Associate, Swiftwater, PA](https://trylitos.com/job/9b51d999-2ac6-470d-98b1-efdb23b4140d?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Swiftwater, PA |  | Oct 29 |  |
 | **Mueller** | [Mechanical Engineering - Development Program](https://trylitos.com/job/99fd17c6-0fe0-464b-9671-a27432b343f6?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Atlanta, GA; Albertville, AL; Kimball, TN; De |  | Oct 20 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Carolina](https://trylitos.com/job/74ef7f57-f3d4-440c-a4a9-f2c9b0aa37c3?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Carolina - Carolina, SC |  | Oct 16 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Rialto](https://trylitos.com/job/d3b24483-0555-44ff-b213-346405b1dc25?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Rialto - Rialto, CA |  | Oct 16 |  |
