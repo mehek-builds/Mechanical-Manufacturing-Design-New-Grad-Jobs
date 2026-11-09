@@ -1,13 +1,16 @@
-# 11 engineering development and rotational programs roles
+# 14 engineering development and rotational programs roles
 
-**11 roles at 5 companies.** Checked 2 Nov 2026. Engineering development, leadership and rotational programs for new grads.
+**14 roles at 6 companies.** Checked 9 Nov 2026. Engineering development, leadership and rotational programs for new grads.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **General Motors** | [Entry-Level Manufacturing Engineering Rotational Program](https://trylitos.com/job/6fdcf552-cf8a-4f57-b30e-77463987251d?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Warren, Michigan, United States of America |  | Nov 6 |  |
+| **Niagara Bottling** | [Manufacturing Development Program - Texas](https://trylitos.com/job/decb3e58-d0f3-4632-8a56-597bc42caec5?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Dallas - Dallas, TX |  | Nov 4 |  |
+| **Mueller** | [Manufacturing Engineering - Development Program](https://trylitos.com/job/e350dc44-5352-468b-ab1e-cea0582f692a?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Atlanta, GA; Albertville, AL; Kimball, TN; De |  | Nov 2 |  |
+| **Mueller** | [Mechanical Engineering - Development Program - June 2027](https://trylitos.com/job/99fd17c6-0fe0-464b-9671-a27432b343f6?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Atlanta, GA; Albertville, AL; Kimball, TN; De |  | Nov 2 |  |
 | **Sanofi** | [2027 Vaccines Manufacturing and Supply Rotational Development Program Associate, Swiftwater, PA](https://trylitos.com/job/9b51d999-2ac6-470d-98b1-efdb23b4140d?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Swiftwater, PA |  | Oct 29 |  |
-| **Mueller** | [Mechanical Engineering - Development Program](https://trylitos.com/job/99fd17c6-0fe0-464b-9671-a27432b343f6?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Atlanta, GA; Albertville, AL; Kimball, TN; De |  | Oct 20 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Carolina](https://trylitos.com/job/74ef7f57-f3d4-440c-a4a9-f2c9b0aa37c3?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Carolina - Carolina, SC |  | Oct 16 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Rialto](https://trylitos.com/job/d3b24483-0555-44ff-b213-346405b1dc25?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Rialto - Rialto, CA |  | Oct 16 |  |
 | **Niagara Bottling** | [Manufacturing Development Program - Mesa](https://trylitos.com/job/6c73aee7-7117-4f95-98eb-4b4c024d1158?utm_source=github&utm_campaign=mech-mfg-grad-programs) | Mesa - Mesa, AZ |  | Oct 16 |  |
